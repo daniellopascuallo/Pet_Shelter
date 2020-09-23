@@ -1,4 +1,3 @@
-const { query } = require('express');
 const Pet = require('../models/model.pets');
 
 module.exports = {
