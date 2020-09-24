@@ -15,8 +15,8 @@ const Main = props => {
 
     return (
         <div>
-            <h3>These pets are looking for a Good Home</h3>
-            <Link to="/new">Add a pet to the Shelter</Link>
+            <h3>These Pets are Looking for a Good Home</h3>
+            <Link to="/new">Add a Pet to the Shelter</Link>
             <table className="col-6 mx-auto">
                 <thead>
                     <tr>
